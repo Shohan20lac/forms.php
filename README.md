@@ -7,7 +7,7 @@ id: 2222
 pass: 2222
 
 
-INSTALLATION
+Installation
 ============
 1. Have xampp installed and apache server running
 2. import forms.sql database file into your local mysql server (e.g. by using the phpmyAdmin DBMS)
