@@ -8,7 +8,7 @@
                 <a class="nav-link" href="#">User Panel <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Admin Panel</a>
+                <a class="nav-link" href="login.php">Admin Panel</a>
               </li>
 
             </ul>
