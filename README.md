@@ -1,5 +1,5 @@
 # phpPanel
-A collection of webpages that demonstrate introductory knowledge in form handling using PHP and MySQL.
+A collection of webpages that demonstrate introductory knowledge in form handling using PHP and MySQL on a localhost machine.
 
 
 Admin panel login info:
